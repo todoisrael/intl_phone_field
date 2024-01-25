@@ -253,7 +253,7 @@ class IntlPhoneField extends StatefulWidget {
     Key? key,
     this.formFieldKey,
     this.initialCountryCode,
-    this.languageCode = 'en',
+    this.languageCode = 'he',
     this.disableAutoFillHints = false,
     this.obscureText = false,
     this.textAlign = TextAlign.left,
